@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ruchika0228
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ruchika Vaidya
+- 👀 Currently I am doing my project in Speech Emotion Recognition-Sound Classification
+- 🌱 I’m currently learning Deep learning and Natural Language processing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : ruchika.vaidya2002@gmail.com
 
-<!---
-ruchika0228/ruchika0228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
